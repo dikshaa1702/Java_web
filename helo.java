@@ -1,4 +1,4 @@
 class helo
 {
-System.out.println("good morning");
+System.out.println("Hii");
 }
